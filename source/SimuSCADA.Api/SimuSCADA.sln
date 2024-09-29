@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuSCADA.UnitTest", "..\Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuSCADA.Device.Simulation", "..\SimuSCADA.Device.Simulation\SimuSCADA.Device.Simulation.csproj", "{4B441773-F117-4A96-A344-157799499083}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuSCADA.Application", "..\SimuSCADA.Application\SimuSCADA.Application.csproj", "{76F4AB3C-4D64-4EC9-85A9-74BD21A8F27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuSCADA.Data", "..\SimuSCADA.Data\SimuSCADA.Data.csproj", "{E75E63E0-669B-4996-BCC7-9A59AEDBFBF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4B441773-F117-4A96-A344-157799499083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B441773-F117-4A96-A344-157799499083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B441773-F117-4A96-A344-157799499083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F4AB3C-4D64-4EC9-85A9-74BD21A8F27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F4AB3C-4D64-4EC9-85A9-74BD21A8F27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F4AB3C-4D64-4EC9-85A9-74BD21A8F27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F4AB3C-4D64-4EC9-85A9-74BD21A8F27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75E63E0-669B-4996-BCC7-9A59AEDBFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75E63E0-669B-4996-BCC7-9A59AEDBFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75E63E0-669B-4996-BCC7-9A59AEDBFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75E63E0-669B-4996-BCC7-9A59AEDBFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

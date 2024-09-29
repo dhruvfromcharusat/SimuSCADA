@@ -482,3 +482,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/source/SimuSCADA/appsettings.UserSettings.json
+/source/SimuSCADA/appsettings.UserSettings.json
